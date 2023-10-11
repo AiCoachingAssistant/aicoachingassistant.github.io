@@ -1,3 +1,4 @@
+theme: minima
 # AI Coaching Assistant project
 
 ## What is ACA?
@@ -12,7 +13,7 @@ We are recruiting participants for the following study:
 This study is part of a PhD project (by Gatis Jurkāns) stemming from the **Human Cybernetics Lab** at **Aston university** and supported by **Gymshark**.
 
 ### Study Description
-This study will have Olympic weightlifting athletes such as yourself taking part in video recorded training sessions. Experiments will resemble standard training sessions and the participating athletes will only be asked to perform lifts and assistance movements that they are already highly proficient at.
+This study will have Olympic weightlifting athletes such as yourself taking part in video-recorded training sessions. Experiments will resemble standard training sessions and the participating athletes will only be asked to perform lifts and assistance movements that they are already highly proficient at.
 
 Sessions will be performed in dedicated gyms with appropriate weightlifting platforms, with cameras capturing the performances. The video data collected of these lifts will be used to generate numerical performance metrics. The focus across all the recording sessions will be on the technique. **During some of the recording sessions a weightlifting coach will assess the quality of your technique.**
 
