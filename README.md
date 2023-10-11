@@ -9,7 +9,9 @@ This is your invitation to take part in a series of experiments to help us creat
 We are recruiting participants for the following study:
     “MARKERLESS POSE DATA USE FOR NUMERIC METRIC EXTRACTION, APPLIED AS FEEDBACK IN OLYMPIC WEIGHTLIFTING”
 
-This study is part of a PhD project (by Gatis Jurkāns) stemming from the **Human Cybernetics Lab** at **Aston university** and supported by **Gymshark**.
+This study is part of a PhD project (by Gatis Jurkāns) stemming from the **Human Cybernetics Lab** at **Aston university** and supported by **Gymshark**. 
+
+![alt text](https://github.com/AiCoachingAssistant/aicoachingassistant.github.io/blob/main/logos.png)
 
 ### Study Description
 This study will have Olympic weightlifting athletes such as yourself taking part in video-recorded training sessions. Experiments will resemble standard training sessions and the participating athletes will only be asked to perform lifts and assistance movements that they are already highly proficient at.
