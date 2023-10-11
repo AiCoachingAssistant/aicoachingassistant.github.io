@@ -1,4 +1,3 @@
-theme: minima
 # AI Coaching Assistant project
 
 ## What is ACA?
