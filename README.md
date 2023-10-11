@@ -31,8 +31,9 @@ As a thank you participants will receive a personalised report informing them ab
 
 ### How to reach us?
 If you would like to participate in the study email us at:
-* ai.coaching.assistant@gmail.com
-* gjurk22@aston.ac.uk
+* [ai.coaching.assistant@gmail.com](mailto:ai.coaching.assistant@gmail.com)
+* [gjurk22@aston.ac.uk](mailto:gjurk22@aston.ac.uk)
+
 And we will get back to you with the next steps for participation.
 
 Thank You for showing interest, we look forward to working with you!
