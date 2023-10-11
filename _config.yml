@@ -1,0 +1,19 @@
+# Site settings
+title: AI Coaching Asistant project
+description: The landing page for the ACA project.
+baseurl: "" 
+url: "https://aicoachingassistant.github.io/
+
+# Theme settings
+theme: minima
+
+# Build settings
+markdown: kramdown
+
+# Plugin settings
+plugins:
+  - jekyll-feed
+
+# Exclude folders
+# exclude:
+  # - vendor
