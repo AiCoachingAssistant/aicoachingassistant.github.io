@@ -1,7 +1,7 @@
 # Site settings
 title: AI Coaching Asistant project
 description: The landing page for the ACA project.
-# baseurl: "" 
+baseurl: "" 
 url: "https://aicoachingassistant.github.io/"
 
 # Theme settings
