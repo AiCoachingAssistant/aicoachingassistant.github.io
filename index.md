@@ -3,7 +3,7 @@
 
 This is your invitation to take part in a series of experiments to help us create a new paradigm for coaching Olympic weightlifting athletes.
 
-# :gift: GET A CHANCE TO WIN PRIZES FROM GYMSHARK :gift:
+#  GET A CHANCE TO WIN PRIZES FROM GYMSHARK 
 We are recruiting participants for the following study:
     “MARKERLESS POSE DATA USE FOR NUMERIC METRIC EXTRACTION, APPLIED AS FEEDBACK IN OLYMPIC WEIGHTLIFTING”
 
