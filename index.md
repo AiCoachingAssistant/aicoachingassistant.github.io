@@ -3,9 +3,11 @@
 
 This is your invitation to take part in a series of experiments to help us create a new paradigm for coaching Olympic weightlifting athletes.
 
-#  GET A CHANCE TO WIN PRIZES FROM GYMSHARK 
+#  Get a chance to win a £30 Gymshark gift card 
 We are recruiting participants for the following study:
     “MARKERLESS POSE DATA USE FOR NUMERIC METRIC EXTRACTION, APPLIED AS FEEDBACK IN OLYMPIC WEIGHTLIFTING”
+
+Upon completion of 2 sessions (1 full activity) you will receive a personalised report on your performance and automatically  enter a prize draw with a 50% chance to win a £30 Gymshark gift card.
 
 This study is part of a PhD project (by Gatis Jurkāns) stemming from the **Human Cybernetics Lab** at **Aston University** and supported by **Gymshark**. 
 
