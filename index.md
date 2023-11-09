@@ -3,11 +3,10 @@
 
 This is your invitation to take part in a series of experiments to help us create a new paradigm for coaching Olympic weightlifting athletes.
 
-##  Get a chance to win a £30 Gymshark gift card 
 We are recruiting participants for the following study:
     “MARKERLESS POSE DATA USE FOR NUMERIC METRIC EXTRACTION, APPLIED AS FEEDBACK IN OLYMPIC WEIGHTLIFTING”
 
-Upon completion of 2 sessions (1 full activity) you will receive a personalised report on your performance. Additionally by participation in any of the activities you will automatically enter a prize draw with a 50% chance to win a £30 Gymshark gift card.
+**Upon completion of 2 sessions (1 full activity) you will receive a personalised report on your performance. Additionally by participation in any of the activities you will automatically enter a prize draw with a chance to win a £30 Gymshark gift card.**
 
 This study is part of a PhD project (by Gatis Jurkāns) stemming from the **Human Cybernetics Lab** at **Aston University** and supported by **Gymshark**. 
 
@@ -28,14 +27,12 @@ As a thank you participants will receive a personalised report about different a
 
 **The current series of experiments are being run at the following locations:**
 * Warley Weightlifting Club (Birmingham, United Kingdom)
-* University of Birmingham: Sports and Fitness Centre (Birmingham, United Kingdom) - TBC
 
 ### Criteria for participation
 * This study is open to participants aged between 18 to 40 years old:
     * For participants aged between 18 to 30 years of age you must have **at least 2 years** of experience in the sport of Olympic weightlifting.
     * Participants aged 31 to 40 years old must have **at least 5 years** of experience in the sport of Olympic weightlifting. 
     * Furthermore, you must not be currently recovering from any severe injuries or illnesses that could potentially hinder your weightlifting ability. We would respectfully request that for safety reasons if you are recovering from any injuries or illnesses, you do not proceed to participate in this study.
-
 
 ## Origins of ACA
 
@@ -45,4 +42,3 @@ As a fellow weightlifter, I know how incredibly technical Olympic lifts are. Whe
 
 If you are interested in the project, you can reach me at: 
 [gjurk22@aston.ac.uk](mailto:gjurk22@aston.ac.uk)
-
