@@ -20,7 +20,6 @@ As a thank you participants will receive a personalised report about different a
 
 **The current series of experiments are being run at the following locations:**
 * Warley Weightlifting Club (Birmingham, United Kingdom)
-* University of Birmingham: Sports and Fitness Centre (Birmingham, United Kingdom) - TBC
 
 ### Criteria for participation
 * This study is open to participants aged between 18 to 40 years old:
