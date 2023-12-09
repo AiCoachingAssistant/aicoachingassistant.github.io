@@ -1,6 +1,9 @@
 # What is ACA?
 **AI Coaching Assistant is a virtual sports performance coaching assistant that uses state-of-the-art computer vision and machine learning tools.**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gxFo8lK0QCA?si=LVquPlgeti2Ac4uE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 This is your invitation to take part in a series of experiments to help us create a new paradigm for coaching Olympic weightlifting athletes.
 
 We are recruiting participants for the following study:
@@ -9,6 +12,7 @@ We are recruiting participants for the following study:
 **Upon completion of 2 sessions (1 full activity) you will receive a personalised report on your performance. Additionally by participation in any of the activities you will automatically enter a prize draw with a chance to win a £30 Gymshark gift card.**
 
 This study is part of a PhD project (by Gatis Jurkāns) stemming from the **Human Cybernetics Lab** at **Aston University** and supported by **Gymshark**. 
+
 
 # TO SIGN UP FOR THE STUDY
 Email us with your name and contact details at:  
