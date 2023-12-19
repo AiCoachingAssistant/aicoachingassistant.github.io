@@ -11,7 +11,7 @@ We are recruiting participants for the following study:
 
 **Upon completion of 2 sessions (1 full activity) you will receive a personalised report on your performance. Additionally by participation in any of the activities you will automatically enter a prize draw with a chance to win a £30 Gymshark gift card.**
 
-This study is part of a PhD project (by Gatis Jurkāns) stemming from the **Human Cybernetics Lab** at **Aston University** and supported by **Gymshark**. 
+This study is part of a PhD project (by Gatis Jurkāns) stemming from the **Cybernetic Human Lab** at **Aston University** and supported by **Gymshark**. 
 
 
 # TO SIGN UP FOR THE STUDY
