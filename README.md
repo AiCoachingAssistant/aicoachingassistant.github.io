@@ -7,7 +7,7 @@ This is your invitation to take part in a series of experiments to help us creat
 We are recruiting participants for the following study:
     “MARKERLESS POSE DATA USE FOR NUMERIC METRIC EXTRACTION, APPLIED AS FEEDBACK IN OLYMPIC WEIGHTLIFTING”
 
-This study is part of a PhD project (by Gatis Jurkāns) stemming from the **Human Cybernetics Lab** at **Aston University** and supported by **Gymshark**. 
+This study is part of a PhD project (by Gatis Jurkāns) stemming from the **Cybernetic Human Lab** at **Aston University** and supported by **Gymshark**. 
 
 ![Aston and HCL and gymshark logos](https://github.com/AiCoachingAssistant/aicoachingassistant.github.io/blob/main/assets/img/logos_landing_270_480.png "Logos image")
 
